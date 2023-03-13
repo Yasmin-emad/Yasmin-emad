@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yasmin-emad
-- 👀 I’m interested in Web Deelpment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me send me an email: yasmin.emad600@gmail.com 
